@@ -3,3 +3,10 @@ public class Main {
         System.out.println("Hello World!");
      }
     }
+    public static void olaMundo() {
+    System.out.println("Olá Mundo");
+    }
+
+    
+
+    
